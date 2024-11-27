@@ -12,7 +12,7 @@ Welcome to the **Tourism Web App** project! This web application provides inform
 
 ## Live Demo
 
-Access the live version of the project on **GitHub Pages**: [Tourism Web App](https://<your-username>.github.io/<your-repository>/)
+Access the live version of the project on **GitHub Pages**: [Tourism Web App] https://pravalitourism.ccbp.tech/
 
 ## Technologies Used
 
