@@ -1,3 +1,6 @@
+# I have done deployment using nxtwave platform
+# The other way to deploy is as follows
+
 # 1. Prepare Your Repository
 Ensure all your project files (HTML, CSS, JavaScript, etc.) are committed and pushed to a GitHub repository.
 # 2. Set Up GitHub Pages
